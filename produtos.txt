@@ -1,0 +1,8 @@
+
+Pão;8.0;cereais
+Leite;4.0;laticineos
+Detergente;4.0;produtos de limpezas
+Trigo;16.5;cereais
+Café;38.5;cereais
+Arroz;34.99;cereais
+Feijão;7.99;cereais
